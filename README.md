@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Raven98/Raven98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#">
+  <img align="right" src="https://github-readme-stats-git-master.dreace.vercel.app/api?icon_color=586069&hide_border=true&title_color=a0a9af&username=Raven98&show_icons=true">
+</a>
 
-Here are some ideas to get you started:
+### 👋 Hi, It's Raven 
+A graduate student in the field of Network~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😊 About Me
+- I'm currently working IoT algorithm, wireless network and software engineering.
+- I'm currently leading [Crazyflie](https://www.bitcraze.io/), an open sourcing 
+- I'm looking to collaborate on any amazing ideas about Internet.
+- I was an intern in [ByteDance](https://www.bytedance.com/en/), [Neusoft](https://www.neusoft.com/).
+- How to reach me: [Blog](https://ravenxu.top/), [LinkedIn](https://www.linkedin.com/in/ravenxu/), [Email](xrwgood@qq.com)
