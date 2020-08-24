@@ -7,8 +7,8 @@
 A graduate student in the field of Network~
 
 ### 😊 About Me
-- I'm currently working IoT algorithm, wireless network and software engineering.
-- I'm currently leading [Crazyflie](https://www.bitcraze.io/), an open sourcing 
+- I'm currently working on IoT algorithm, wireless network and software engineering.
+- I'm currently learning [Crazyflie](https://www.bitcraze.io/), an open sourcing drone platform.
 - I'm looking to collaborate on any amazing ideas about Internet.
 - I was an intern in [ByteDance](https://www.bytedance.com/en/), [Neusoft](https://www.neusoft.com/).
 - How to reach me: [Blog](https://ravenxu.top/), [LinkedIn](https://www.linkedin.com/in/ravenxu/), [Email](xrwgood@qq.com)
