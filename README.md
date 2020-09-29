@@ -5,6 +5,7 @@
 
 ### 👋 Hi, It's Raven 
 A graduate student in the field of Network and Computing~
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RavenLite.RavenLite)
 
 ### 😊 About Me
 - I'm currently studying on IoT algorithm, wireless network and software engineering 🔭.
