@@ -4,11 +4,12 @@
 </a>
 
 ### 👋 Hi, It's Raven 
-A graduate student in the field of Network~
+A graduate student in the field of Network and Computing~
 
 ### 😊 About Me
-- I'm currently working on IoT algorithm, wireless network and software engineering.
-- I'm currently learning [Crazyflie](https://www.bitcraze.io/), an open sourcing drone platform.
+- I'm currently studying on IoT algorithm, wireless network and software engineering 🔭.
+- I'm working for **[SEU Networking and Swarm Intelligence Laboratory](https://github.com/SEU-NetSI)**.
+- I'm learning [Crazyflie](https://www.bitcraze.io/), an open sourcing drone platform 🚁.
 - I'm looking to collaborate on any amazing ideas about Internet.
-- I was an intern in [ByteDance](https://www.bytedance.com/en/), [Neusoft](https://www.neusoft.com/).
-- How to reach me: [Blog](https://ravenxu.top/), [LinkedIn](https://www.linkedin.com/in/ravenxu/), [Email](xrwgood@qq.com)
+- I was an intern in [ByteDance](https://www.bytedance.com/en/) and [Neusoft](https://www.neusoft.com/).
+- How to reach me: [Blog](https://ravenxu.top/), [LinkedIn](https://www.linkedin.com/in/ravenxu/), [Zhihu](https://www.zhihu.com/people/ravenxu98) and [Email](mailto:xrwgood@qq.com).
