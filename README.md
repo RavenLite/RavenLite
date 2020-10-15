@@ -4,7 +4,7 @@
 </a>
 
 ### 👋 Hi, It's Raven 
-A graduate student in the field of Network and Computing~
+A postgraduate in Networking and Swarm Intelligence.
 
 ### 😊 About Me
 - I'm currently studying on IoT algorithm, wireless network and software engineering 🔭.
