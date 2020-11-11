@@ -8,7 +8,7 @@ A graduate student of computer network.
 
 ### 😊 About Me
 - I'm studying on **Computer Network** and **Software Engineering** 🔭
-- I'm working for **SEU Laboratory of Computer Network and Information Integration**, doing some work on the [Swarm Intelligence](https://github.com/SEU-NetSI) 🎓
+- I'm working for **SEU Laboratory of Computer Network and Information Integration**, doing some work about **[Swarm Intelligence](https://github.com/SEU-NetSI)** 🎓
 - I'm currently learning [Crazyflie](https://www.bitcraze.io/), an open sourcing drone platform 🚁
 - I'm looking to collaborate on any interesting ideas about the Internet 💡
 - I was an intern in **[ByteDance](https://www.bytedance.com/en/)** and **[Neusoft](https://www.neusoft.com/)** 💎
