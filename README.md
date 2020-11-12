@@ -7,7 +7,7 @@
 A graduate student of computer network.
 
 ### 😊 About Me
-- I'm studying on **Computer Network** and **Software Engineering** 🔭
+- I'm studying on **Computer Network** and **Software Engineering**, interested in IoT, Data Center Network, Edge Computing and SDN 🔭
 - I'm working for **SEU Laboratory of Computer Network and Information Integration**, doing some work about **[Swarm Intelligence](https://github.com/SEU-NetSI)** 🎓
 - I'm currently learning [Crazyflie](https://www.bitcraze.io/), an open sourcing drone platform 🚁
 - I'm looking to collaborate on any interesting ideas about the Internet 💡
