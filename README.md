@@ -4,12 +4,12 @@
 </a>
 
 ### 👋 Hi, It's Raven 
-- I'm a graduate student studying on **Computer Network and **Software Engineering**, interested in IoT, Edge Computing, Data Center Network, Cloud Native, ... 🔭
+- I'm a graduate student studying on **Computer Network** and **Software Engineering**, interested in IoT, Edge Computing, Data Center Network, Cloud Native, ... 🔭
 - I'm working for [**SEU NetSI Research Group**](https://seu-netsi.net/), doing some work on **[Swarm Intelligence](https://github.com/SEU-NetSI)** 🎓
 - I was an intern in **[ByteDance](https://www.bytedance.com/en/)** and **[Neusoft](https://www.neusoft.com/)** 💎
 - How to reach me: *[Blog](https://ravenxu.top/)*, *[LinkedIn](https://www.linkedin.com/in/ravenxu/)*, *[Zhihu](https://www.zhihu.com/people/ravenxu98)* and *[Email](mailto:xrwgood@qq.com)* 📞
 
-### Recent Blogs
+### Latest Posts
 <!-- BLOG-POST-LIST:START -->
  - May 12, 2022 ~ [Linux 内核空间和用户空间](https://ravenxu.top/Linux-%E5%86%85%E6%A0%B8%E7%A9%BA%E9%97%B4%E5%92%8C%E7%94%A8%E6%88%B7%E7%A9%BA%E9%97%B4/)
  - May 5, 2022 ~ [Linux 绑定程序到特定 CPU 上运行](https://ravenxu.top/a.%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%A9%B6/220506-Linux-%E7%BB%91%E5%AE%9A%E7%A8%8B%E5%BA%8F%E5%88%B0%E7%89%B9%E5%AE%9A-CPU-%E4%B8%8A%E8%BF%90%E8%A1%8C/)
