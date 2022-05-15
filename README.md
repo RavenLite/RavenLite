@@ -14,3 +14,7 @@ A graduate student of computer network.
 - How to reach me: *[Blog](https://ravenxu.top/)*, *[LinkedIn](https://www.linkedin.com/in/ravenxu/)*, *[Zhihu](https://www.zhihu.com/people/ravenxu98)* and *[Email](mailto:xrwgood@qq.com)* 📞
 
 At last, let's **Make Positive Impact!** 💪
+
+### Recent Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
