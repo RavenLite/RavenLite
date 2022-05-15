@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://ravenxu.top/atom.xml"
-          date_format: "UTC:mmm d, yyyy"
+          date_format: "UTC:mm/dd/yyyy"
           template: "$newline - $date - [$title]($url)"
