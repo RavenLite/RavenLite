@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://ravenxu.top/atom.xml"
           date_format: "UTC:mmm d, yyyy"
-          template: "$date - [$title]($url)"
+          template: "$newline - $date ~ [$title]($url)"
