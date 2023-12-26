@@ -7,7 +7,7 @@
 ### 👋 Hi, It's Raven 
 - SRE in Alibaba Cloud 🔭
 - Interested in Efficiency, AIOps, Monitoring, Flink, Cloud Native, Edge Computing, Product Design, Data Center Network, IoT ... 
-- *[Blog](https://ravenxu.top/)*, *[LinkedIn](https://www.linkedin.com/in/ravenxu/)*, *[Zhihu](https://www.zhihu.com/people/ravenxu98)* and *[Email](mailto:xrwgood@qq.com)* 📞
+- *[Blog](https://ravenxu.top/)*, *[LinkedIn](https://www.linkedin.com/in/ravenxu/)*, *[Zhihu](https://www.zhihu.com/people/ravenxu98)*, *[Scholar](https://scholar.google.com/citations?hl=en&user=oId7AjwAAAAJ#)* and *[Email](mailto:xrwgood@qq.com)* 📞
 
 ### 📒 Latest Posts [@RavenLite](https://ravenxu.top/)
 <!-- BLOG-POST-LIST:START -->
